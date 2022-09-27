@@ -1,0 +1,84 @@
+Tampilan menu program :
+----------------------------------------
+		Perpustakaan ABC
+----------------------------------------
+Selamat Datang di Perpustakaan ABC!
+00 - Ilmu Komputer dan Umum
+01 - Filosofi dan Psikologi
+02 - Agama
+03 - Ilmu Sosial
+04 - Bahasa
+05 - Ilmu Pengetahuan
+06 - Teknologi & Ilmu Pengetahuan Terapan
+07 - Seni
+08 - Sastra
+09 - Sejarah & Geografi
+Silahkan pilih kategori buku yang diinginkan :
+
+
+
+https://deepublishstore.com/rekomendasi-buku-teknik-informatika/
+Data :
+	Ilmu Komputer
+1
+Judul : Dasar-Dasar Teknik Informatika
+Penulis : Novega Pratama Adiputra
+Halaman : 117 Halaman
+ISBN : 978-623-02-0819-5
+
+2
+Judul	: Pengantar Teknologi Informasi - Teknik Informatika
+Penulis	: Buhori Muslim
+Halaman : 392 Halaman
+ISBN	: 978-602-453-242-0
+
+3 
+Judul	: Metode Penelitian Teknik Informatika
+Penulis : Ade Johar Maturidi
+Halaman	: 135
+ISBN	: 978-602-8981-72-9
+
+4
+Judul	: Komputer Cerdas Untuk Mahasiswa Teknik Informatika
+Penulis	: Nur Nafi’iyah
+Halaman	: 243 Halaman
+ISBN	: 978-602-401-976-1
+
+5
+Judul	: Teknik Pengolahan Audio & Video
+Penulis	: Johnie Rogers Swanda Pasaribu, S.Kom., M.Kom.
+Halaman	: 171 Halaman
+ISBN	: 978-623-02-0713-6
+
+6
+Judul	: Pengantar Teknologi Informatika dan Komunikasi Data
+Penulis	: Bagaskoro, S.Kom., M.M.
+Halaman	: 121 Halaman
+ISBN	: 978-623-209-852-7
+
+7
+Judul	: Aplikasi Komputer
+Penulis	: Dwi Krisbiantoro
+Halaman	: 167 Halaman
+ISBN	: 978-602-475-992-6
+
+
+	Filsafat dan Psikologi
+https://www.fimela.com/lifestyle/read/4641396/13-rekomendasi-buku-filsafat-untuk-belajar-berpikir-kritis
+
+1
+https://www.gramedia.com/best-seller/review-loving-wounded-soul/
+Judul	: Loving The Wounded Soul
+Penulis	: Regis Machdy
+Halaman	: 324
+ISBN	: 978-602-063-370-1
+
+2
+https://www.tokopedia.com/ketemubukuonline/filosofi-teras-coverlama?extParam=ivf%3Dfalse&src=topads
+Judul	: Filosofi Teras
+Penulis	: Henry Manmpiring
+Halaman	: 344
+ISBN	: 978-602-412-518-9
+
+3
+
