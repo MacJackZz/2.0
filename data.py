@@ -12,15 +12,37 @@ kategori_10 = "Sejarah & Geografi"
 
 
 # List setiap kategori
-kategori_1_list = ['Dasar-Dasar Teknik Informatika', 'Pengantar Teknologi Informasi - Teknik Informatika', 'Metode Penelitian Teknik Informatika', 'Komputer Cerdas Untuk Mahasiswa Teknik Informatika', 'Teknik Pengolahan Audio & Video', 'Pengantar Teknologi Informatika dan Komunikasi Data', 'Aplikasi Komputer']
+# kategori_1_list = ['Dasar-Dasar Teknik Informatika', 'Pengantar Teknologi Informasi - Teknik Informatika', 'Metode Penelitian Teknik Informatika', 'Komputer Cerdas Untuk Mahasiswa Teknik Informatika', 'Teknik Pengolahan Audio & Video', 'Pengantar Teknologi Informatika dan Komunikasi Data', 'Aplikasi Komputer']
 
+
+kategori_1_dict = {k_1_buku1, k_1_buku2}
 
 k_1_buku1 = {
     'judul' : 'Dasar-Dasar Teknik Informatika',
+    'penulis' : 'Novega Pratama Adiputra',
+    'halaman' : 117,
+    'isbn' : '978-623-02-0819-5',
+}
+
+# k_1_buku2
+k_1_buku2 = {
+    'judul' : '',
     'penulis' : '',
     'halaman' : 0,
     'isbn' : ' ',
 }
 
-# k_1_buku2
+# k_1_buku3 = {
+#     'judul' : '',
+#     'penulis' : '',
+#     'halaman' : 0,
+# }
+
+# k_1_buku4 = {
+#     'judul' : '',
+#     'penulis' : '',
+#     'halaman' : 0,
+#     'isbn' : ' ',
+#     'isbn' : ' ',
+# }
 
