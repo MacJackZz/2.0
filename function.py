@@ -30,3 +30,11 @@ def printKategoriHeader (kategori) :
     
 # def infoBuku():
 #     userInput2 = int(input("Silahkan pilih buku :"))
+
+
+
+def get_all_keys(d):
+    for key, value in d.items():
+        yield key
+        if isinstance(value, dict):
+            yield from get_all_keys(value)

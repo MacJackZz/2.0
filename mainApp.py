@@ -1,8 +1,23 @@
 from function import *
 from data import *
 
-print(k_1_buku1)
+# for buku in kategori_1_dict.values() :
+#   for judul in buku.values() :
+#     print(judul['judul'])
 
+# for buku in kategori_1_dict.keys():
+#   print 
+#   for judul in kategori_1_dict[buku].keys():
+#         print 
+
+
+
+
+
+for x in get_all_keys(kategori_1_dict):
+    print(x)
+
+# print(kategori_1_dict)
 startApp = True
 
 while (startApp) :
