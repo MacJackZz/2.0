@@ -1,21 +1,15 @@
 from function import *
 from data import *
 
-# for buku in kategori_1_dict.values() :
-#   for judul in buku.values() :
-#     print(judul['judul'])
-
-# for buku in kategori_1_dict.keys():
-#   print 
-#   for judul in kategori_1_dict[buku].keys():
-#         print 
+# number = 1
+# for buku in kategori_1_dict :
+#   print(f"{number}. {buku}")
+#   number +=1
 
 
 
-
-
-for x in get_all_keys(kategori_1_dict):
-    print(x)
+# for x in get_all_keys(kategori_1_dict):
+#     print(x)
 
 # print(kategori_1_dict)
 startApp = True
@@ -24,6 +18,7 @@ while (startApp) :
   printHalamanAwal()
   userInput = int(input("Silahkan masukan pilihan anda : "))
 
+  
   if(userInput == 1 ) :
     printKategoriHeader(kategori_1)
 
@@ -33,8 +28,9 @@ while (startApp) :
       number +=1
 
 
+
   
-    userInput2 = int(input("Silahkan pilih buku : "))
+    # userInput2 = int(input("Silahkan pilih buku : "))
     # if(userInput2) == 1 :
 
 
