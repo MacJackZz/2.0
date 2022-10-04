@@ -26,7 +26,14 @@ while (startApp) :
 
   if(userInput == 1 ) :
     printKategoriHeader(kategori_1)
-    print('Ilmu Komputer dan Umum :', *kategori_1_list, sep='\n -')
+
+    number = 1
+    for judul in kategori_1_list :
+      print(f"{number}. {judul}")
+      number +=1
+
+
+  
     userInput2 = int(input("Silahkan pilih buku : "))
     # if(userInput2) == 1 :
 
