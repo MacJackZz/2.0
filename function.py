@@ -1,3 +1,5 @@
+
+# Fungsi untuk tampilan menu awal
 def printHalamanAwal() :
     print("-".center(67,"-"))
     print("Perpustakaan ABC".center(67))
@@ -20,21 +22,11 @@ def printHalamanAwal() :
     """) 
 
 
-
+# Fungsi untuk print Header sesuai dengan kategorinya masing-masing
 def printKategoriHeader (kategori) :
     print("-".center(67,"-"))
     print("Perpustakaan ABC".center(67))
     print("-".center(67,"-"))
     print(kategori.center(67))
     print("-".center(67,"-"))
-    
-# def infoBuku():
-#     userInput2 = int(input("Silahkan pilih buku :"))
-
-
-
-def get_all_keys(d):
-    for key, value in d.items():
-        yield key
-        if isinstance(value, dict):
-            yield from get_all_keys(value)
+     
