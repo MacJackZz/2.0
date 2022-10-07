@@ -56,3 +56,8 @@ kategori_8_list = [
 kategori_9_list = [
 
 ]
+
+# Kategori No. 10 : Sejarah & Geografi
+kategori_10_list = [
+
+]
