@@ -11,7 +11,7 @@ while (startApp) :
   
   printHalamanAwal()
   userInput = int(input("Silahkan masukan pilihan anda : "))
-  pilihanUser = True
+  # pilihanUser = True
 
 # Kategori No. 1 : Ilmu Komputer dan Umum
   while(userInput == 1 ) :
@@ -58,13 +58,13 @@ while (startApp) :
 
 
 # Kategori No. 3 : Agama
-  while(userInput == 2 ) :
+  while(userInput == 3 ) :
     
-    printKategoriHeader(kategori_2)
+    printKategoriHeader(kategori_3)
 
     # Tampilkan List Buku
     number = 1
-    for judul in kategori_2_list :
+    for judul in kategori_3_list :
       print(f"{number}. {judul}")
       number +=1
 
@@ -163,13 +163,13 @@ while (startApp) :
       pass
 
 # Kategori No. 8 : Seni
-  while(userInput == 7 ) :
+  while(userInput == 8 ) :
     
-    printKategoriHeader(kategori_7)
+    printKategoriHeader(kategori_8)
 
     # Tampilkan List Buku
     number = 1
-    for judul in kategori_7_list :
+    for judul in kategori_8_list :
       print(f"{number}. {judul}")
       number +=1
 
@@ -184,13 +184,13 @@ while (startApp) :
       pass
 
 # Kategori No. 9 : Sastra
-  while(userInput == 7 ) :
+  while(userInput == 9 ) :
     
-    printKategoriHeader(kategori_7)
+    printKategoriHeader(kategori_9)
 
     # Tampilkan List Buku
     number = 1
-    for judul in kategori_7_list :
+    for judul in kategori_9_list :
       print(f"{number}. {judul}")
       number +=1
 
@@ -205,13 +205,13 @@ while (startApp) :
       pass
 
 # Kategori No. 10 : Sejarah & Geografi
-  while(userInput == 7 ) :
+  while(userInput == 10 ) :
     
-    printKategoriHeader(kategori_7)
+    printKategoriHeader(kategori_10)
 
     # Tampilkan List Buku
     number = 1
-    for judul in kategori_7_list :
+    for judul in kategori_10_list :
       print(f"{number}. {judul}")
       number +=1
 
