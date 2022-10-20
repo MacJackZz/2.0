@@ -59,5 +59,5 @@ kategori_9_list = [
 
 # Kategori No. 10 : Sejarah & Geografi
 kategori_10_list = [
-
+    'Geografi Sejarah Peradaban Dunia Kuno', 'Taipan - Lahirnya Para Konglomerat Indonesia', 'Sejarah Itu Asyik Jilid 1', 'Kepunahan Ke Enam - Sebuah Sejarah Tak Alami', 'Upheaval', 'Romance of The Three Kingdoms', 'Geografi Sejarah Indonesia', 'Garis Besar Geomofologi Indonesia', 'Meteorologi Klimatologi', 'Fenomena Iklim Global Perubahan Iklim dan Dampak di Indonesia ', 'Pengantar meteorologi : Dasar-Dasar Ilmu Tentang Cuaca '
 ]
