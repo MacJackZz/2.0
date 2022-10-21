@@ -24,7 +24,7 @@ kategori_2_list = [
 
 # Kategori No. 3 : Agama
 kategori_3_list = [
-    'Buku Agama 1', 'Buku Agama 2', 'Buku Agama 3', 'Buku Agama 4','Buku Agama 5', 'Buku Agama 6'
+    'The Varieties of Religious Experience: A Study in Human Nature', 'Muhammad: His Life Based on the Earliest Sources', 'Zabur', 'Kun Bil Qur`ani Najman','Cahaya dari Madinah', 'The Miracle of Ikhlas', "Kamus Pintar Al-Qur'an"
 ]
 
 # Kategori No. 4 : Ilmu Sosial
