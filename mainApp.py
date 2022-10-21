@@ -226,8 +226,6 @@ while (startApp) :
       pass
 
 
-
-
 # Opsi untuk keluar aplikasi
   if(userInput == 99) :
     exitApp = input("Apakah anda ingin keluar dari aplikasi? (Y/N) : ").upper()
@@ -238,42 +236,6 @@ while (startApp) :
     else :
       print("Data yg anda masukan tidak valid!")
       pass
-
-  
-
-      
-
-
-
-  # if(userInput == 2 ) :
-  #   printKategoriHeader(kategori_2)
-
-  #   number = 1
-  #   for judul in kategori_2_list :
-  #     print(f"{number}. {judul}")
-  #     number +=1
-
-  # if(userInput == 3 ) :
-  #   printKategoriHeader(kategori_3)
-
-  #   number = 1
-  #   for judul in kategori_3_list :
-  #     print(f"{number}. {judul}")
-  #     number +=1
-
-  
-    # userInput2 = int(input("Silahkan pilih buku : "))
-    # if(userInput2) == 1 :
-
-
-  
-
-
-
-  
-
-
-
   
   
 

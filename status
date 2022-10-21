@@ -1,0 +1,71 @@
+[33mcommit 6b39ee088c0554feab21ed2043fc70b4a6c5b52a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Thu Oct 20 21:21:03 2022 +0700
+
+    tambah konten dari kategori_10
+
+[33mcommit 5bcd59a534c076d7dcc17d36d4d232723f2b7f6e[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Fri Oct 7 23:06:09 2022 +0700
+
+    add kategori no 10
+
+[33mcommit 03d9e2edf7b18b85f87b041a00fb423e01f0a00a[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Fri Oct 7 23:04:04 2022 +0700
+
+    ubah pengkondisian dalam kategori yg masih salah
+
+[33mcommit 88ddb3da6061db7cbeaaab73334e323280ad6d15[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Wed Oct 5 22:39:16 2022 +0700
+
+    sync
+
+[33mcommit a5a563e5546d63b9678e14b199af13a984f28003[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Wed Oct 5 22:38:44 2022 +0700
+
+    sync
+
+[33mcommit 87023092ed8a2970667151e660d438e0a30e63e7[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Wed Oct 5 22:29:06 2022 +0700
+
+    penambahan program u/ setiap kategori
+
+[33mcommit 43534c77b57f6b00e4d85e647f0e41199daa7bec[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Wed Oct 5 22:18:00 2022 +0700
+
+    del bbrp func, del data gk guna, btn back berhasil
+
+[33mcommit b3e4860a52a69dd2d43ea482515c2670ddd28098[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Tue Oct 4 19:58:50 2022 +0700
+
+    lgtm
+
+[33mcommit 2670c9d0e4df0cc580cce387d2fa19d4fc937b85[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Tue Oct 4 19:31:59 2022 +0700
+
+    benerin loop di userInput 1
+
+[33mcommit bcee2ccdb1f8b0df82e17570446118f21e3920b8[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Sat Oct 1 22:41:55 2022 +0700
+
+    commit
+
+[33mcommit 8e7bde3081b49c72bba409004a29b0901d439ae5[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Thu Sep 29 19:45:39 2022 +0700
+
+    percobaan function iterasi dictionar
+
+[33mcommit 709eb18e070c6775bae67c1ea570581e5cb15f74[m
+Author: MacJackZz <senior.hendrawan@gmail.com>
+Date:   Tue Sep 27 23:58:12 2022 +0700
+
+    init pertama
