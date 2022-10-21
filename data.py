@@ -19,8 +19,8 @@ kategori_1_list = ['Dasar-Dasar Teknik Informatika', 'Pengantar Teknologi Inform
 
 # Kategori No. 2 : Filosofi dan Psikologi
 kategori_2_list = [
-    'Loving The Wounded Soul', 'Filosofi Teras', 
-]
+    'Loving The Wounded Soul', 'Filosofi Teras', 'Paradigma Filsafat Ekonomi Islam Musa Asy`Arie – Zaprulkhan', 'Filsafat Keadilan', 'Etika Dan Asketika Ilmu: Kajian Filsafat Ilmu'
+ ]
 
 # Kategori No. 3 : Agama
 kategori_3_list = [

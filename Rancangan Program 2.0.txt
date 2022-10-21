@@ -84,6 +84,68 @@ ISBN	: 978-602-412-518-9
 
 
 
+Filsafat
+Paradigma Filsafat Ekonomi Islam Musa Asy`Arie – Zaprulkhan
+Filsafat Keadilan 
+Etika Dan Asketika Ilmu: Kajian Filsafat Ilmu
+
+Agama
+
+The Varieties of Religious Experience: A Study in Human Nature
+Muhammad: His Life Based on the Earliest Sources
+Zabur
+Kun Bil Qur`ani Najman
+Cahaya dari Madinah
+The Miracle of Ikhlas
+Kamus Pintar Al-Qur'an
+
+
+Ilmu Pengetahuan
+Mandela: The Authorised Biography
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
+Alex Ferguson: My Autobiography
+A Brief History of Time
+Sapiens: A Brief History of Humankind
+Thinking, Fast and Slow
+Physics of the Impossible
+Six Easy Pieces: Essentials of Physics Explained
+
+
+
+
+
+
+Sastra
+Milea Suara Dari Dilan
+Dilan: Dia Adalah Dilanku Tahun 1990
+Imperfect
+KKN Di Desa Penari
+Why? Literature
+Metodologi Penelitian Posmodernisme Sastra
+Pedoman Penelitian Sastra Anak
+Pengantar Teori Sastra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 k_1_buku1 = {
     'judul' : 'Dasar-Dasar Teknik Informatika',
