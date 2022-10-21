@@ -55,7 +55,7 @@ kategori_8_list = [
 
 # Kategori No. 9 : Sastra
 kategori_9_list = [
-
+    'Milea Suara Dari Dilan', 'Dilan: Dia Adalah Dilanku Tahun 1990', 'Imperfect', 'KKN Di Desa Penari', 'Why? Literature', 'Metodologi Penelitian Posmodernisme Sastra', 'Pedoman Penelitian Sastra Anak', 'Pengantar Teori Sastra'
 ]
 
 # Kategori No. 10 : Sejarah & Geografi
