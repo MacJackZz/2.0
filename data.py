@@ -39,6 +39,7 @@ kategori_5_list = [
 
 # Kategori No. 6 : Ilmu Pengetahuan
 kategori_6_list = [
+    'Mandela: The Authorised Biography', 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future', 'Alex Ferguson: My Autobiography', 'A Brief History of Time', 'Sapiens: A Brief History of Humankind', 'Thinking, Fast and Slow', 'Physics of the Impossible', 'Six Easy Pieces: Essentials of Physics Explained'
 
 ]
 
