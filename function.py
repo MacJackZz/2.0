@@ -30,3 +30,8 @@ def printKategoriHeader (kategori) :
     print(kategori.center(67))
     print("-".center(67,"-"))
      
+def tampilListBuku (kategori_list_no):
+    number = 1
+    for judul in kategori_list_no :
+      print(f"{number}. {judul}")
+      number +=1

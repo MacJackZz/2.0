@@ -19,7 +19,6 @@ while (startApp) :
     printKategoriHeader(kategori_1)
     tampilListBuku(kategori_1_list)
 
-
     # Opsi Kembali
     exitPilihanUser = input("Ingin kembali ke beranda ? (Y/N)").upper()
     if (exitPilihanUser == 'Y') :
