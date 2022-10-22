@@ -286,6 +286,5 @@ while (startApp) :
     else :
       print("Data yg anda masukan tidak valid!")
       pass
-  print("-".center(67, "-"))
-  print("Anda telah keluar dari Aplikasi!".center(67))
-  print("-".center(67, "-"))
+  
+  tampilPesanKeluar()

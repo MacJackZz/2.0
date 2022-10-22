@@ -57,4 +57,6 @@ def pilihanKategoriBuku (userInput, no_pilihan, kategori_ke, kategori_list_ke) :
 
 
 # def tampilPesanKeluar() :
-    
+    print("-".center(67, "-"))
+    print("Anda telah keluar dari Aplikasi!".center(67))
+    print("-".center(67, "-"))
