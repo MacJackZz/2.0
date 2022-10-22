@@ -17,12 +17,8 @@ while (startApp) :
   while(userInput == 1 ) :
     
     printKategoriHeader(kategori_1)
+    tampilListBuku(kategori_1_list)
 
-    # Tampilkan List Buku
-    number = 1
-    for judul in kategori_1_list :
-      print(f"{number}. {judul}")
-      number +=1
 
     # Opsi Kembali
     exitPilihanUser = input("Ingin kembali ke beranda ? (Y/N)").upper()
