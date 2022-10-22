@@ -28,7 +28,7 @@ while (startApp) :
     else :
       print("Data yg anda masukan tidak valid!")
       pass
-
+  
 
 # Kategori No. 2 : Filosofi dan Psikologi
   while(userInput == 2 ) :

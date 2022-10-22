@@ -6,6 +6,7 @@ def printHalamanAwal() :
     print("-".center(67,"-"))
 
     print("Selamat Datang di Perpustakaan ABC!".center(67))
+    
     print("""
 1.  Ilmu Komputer dan Umum
 2.  Filosofi dan Psikologi
@@ -30,8 +31,34 @@ def printKategoriHeader (kategori) :
     print(kategori.center(67))
     print("-".center(67,"-"))
      
+# Menampilkan list buku sesuai dengan no. kategori dalam parameter
 def tampilListBuku (kategori_list_no):
     number = 1
     for judul in kategori_list_no :
       print(f"{number}. {judul}")
       number +=1
+
+
+
+
+
+
+# Eksekusi pilihahKategoriBuku Function
+# pilihanKategoriBuku(userInput, 1, kategori_1, kategori_1_list)
+
+# Function pilihanKategoriBuku
+# def pilihanKategoriBuku (userInput, no_pilihan, kategori_ke, kategori_list_ke) :
+#     while(userInput == no_pilihan) :
+    
+#         printKategoriHeader(kategori_ke)
+#         tampilListBuku(kategori_list_ke)
+
+#         # Opsi Kembali
+#         exitPilihanUser = input("Ingin kembali ke beranda ? (Y/N)").upper()
+#         if (exitPilihanUser == 'Y') :
+#           userInput = False
+#         elif (exitPilihanUser == 'N') :
+#             continue
+#         else :
+#             print("Data yg anda masukan tidak valid!")
+#         pass
