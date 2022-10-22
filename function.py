@@ -45,7 +45,7 @@ def pilihanKategoriBuku (userInput, no_pilihan, kategori_ke, kategori_list_ke) :
         tampilListBuku(kategori_list_ke)
 
         # Opsi Kembali
-        exitPilihanUser = input("Ingin kembali ke beranda ? (Y/N)").upper()
+        exitPilihanUser = input("Ingin kembali ke beranda ? (Y/N) : ").upper()
         if (exitPilihanUser == 'Y') :
             userInput = False
             return userInput
@@ -56,7 +56,7 @@ def pilihanKategoriBuku (userInput, no_pilihan, kategori_ke, kategori_list_ke) :
         pass
 
 
-# def tampilPesanKeluar() :
+def tampilPesanKeluar() :
     print("-".center(67, "-"))
     print("Anda telah keluar dari Aplikasi!".center(67))
     print("-".center(67, "-"))
