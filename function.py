@@ -1,5 +1,11 @@
+import os
+
 # Fungsi untuk tampilan menu awal
 def printHalamanAwal() :
+    # Biar auto clear
+    os.system('cls')
+
+
     print("-".center(67,"-"))
     print("Perpustakaan ABC".center(67))
     print("-".center(67,"-"))
@@ -24,6 +30,8 @@ def printHalamanAwal() :
 
 # Fungsi untuk print Header sesuai dengan kategorinya masing-masing
 def printKategoriHeader (kategori) :
+    os.system('cls')
+
     print("-".center(67,"-"))
     print("Perpustakaan ABC".center(67))
     print("-".center(67,"-"))
@@ -57,6 +65,8 @@ def pilihanKategoriBuku (userInput, no_pilihan, kategori_ke, kategori_list_ke) :
 
 
 def tampilPesanKeluar() :
+    os.system('cls')
+    
     print("-".center(67, "-"))
     print("Anda telah keluar dari Aplikasi!".center(67))
     print("-".center(67, "-"))
