@@ -10,7 +10,18 @@ kategori_8 = "Seni"
 kategori_9 = "Sastra"
 kategori_10 = "Sejarah & Geografi"
 
-
+kategori_buku = [
+    "Ilmu Komputer dan Umum",                   # Kategori 1
+    "Filosofi dan Psikologi",                   # Kategori 2
+    "Agama",                                    # Kategori 3
+    "Ilmu Sosial",                              # Kategori 4
+    "Bahasa",                                   # Kategori 5
+    "Ilmu Pengetahuan",                         # Kategori 6
+    "Teknologi & Ilmu Pengetahuan Terapan",     # Kategori 7
+    "Seni",                                     # Kategori 8
+    "Sastra",                                   # Kategori 9
+    "Sejarah & Geografi"                        # Kategori 10
+]
 # List setiap kategori
 
 # Kategori No. 1 : Ilmu Komputer & Umum
