@@ -1,15 +1,5 @@
 # Deklarasi setiap kategori
-kategori_1 = "Ilmu Komputer dan Umum"
-kategori_2 = "Filosofi dan Psikologi"
-kategori_3 = "Agama"
-kategori_4 = "Ilmu Sosial"
-kategori_5 = "Bahasa"
-kategori_6 = "Ilmu Pengetahuan"
-kategori_7 = "Teknologi & Ilmu Pengetahuan Terapan"
-kategori_8 = "Seni"
-kategori_9 = "Sastra"
-kategori_10 = "Sejarah & Geografi"
-
+# List Kategori Buku
 kategori_buku = [
     "Ilmu Komputer dan Umum",                   # Kategori 1
     "Filosofi dan Psikologi",                   # Kategori 2
