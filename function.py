@@ -41,20 +41,21 @@ def printKategoriHeader (kategori) :
     print(kategori.center(67))
     print("-".center(67,"-"))
 
-def tampilListBuku (kategori_list_no):
+# kategori_n_list  = kategori_1_list, kategori_2_list, kategori_3_list, ....
+def tampilListBuku (kategori_n_list):
     '''Menampilkan list buku sesuai dengan no. kategori dalam parameter'''
     number = 1
-    for judul in kategori_list_no :
-      print(f"{number}. {judul}")
-      number +=1
+    for judul in kategori_n_list :
+        print(f"{number}. {judul}")
+        number +=1
 
 
-def pilihanKategoriBuku (userInput, no_pilihan, kategori_ke, kategori_list_ke) :
+def pilihanKategoriBuku (userInput, no_pilihan_user, kategori_buku, kategori_n_list) :
     '''Function untuk setiap pilihan kategori bukunya masing-masing'''
-    while(userInput == no_pilihan) :
+    while(userInput == no_pilihan_user) :
     
-        printKategoriHeader(kategori_ke)
-        tampilListBuku(kategori_list_ke)
+        printKategoriHeader(kategori_buku)
+        tampilListBuku(kategori_n_list)
 
         # Opsi Kembali
         exitPilihanUser = input("Ingin kembali ke beranda ? (Y/N) : ").upper()
@@ -72,7 +73,7 @@ def tampilPesanKeluar() :
     ''' Fungsi untuk pesan ketika user keluar dari aplikasi '''
     os.system('cls')
     print("\n"*7)
-    print("-".center(67, "-"))
+    print("".center(67, "-"))
     print("Anda telah keluar dari Aplikasi!".center(67))
-    print("-".center(67, "-"))
+    print("".center(67, "-"))
     print("\n"*7)
