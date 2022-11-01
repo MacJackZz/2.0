@@ -43,11 +43,10 @@ def printKategoriHeader (kategori) :
 
 # kategori_n_list  = kategori_1_list, kategori_2_list, kategori_3_list, ....
 def tampilListBuku (kategori_n_list):
-    '''Menampilkan list buku sesuai dengan no. kategori dalam parameter'''
-    number = 1
-    for judul in kategori_n_list :
-        print(f"{number}. {judul}")
-        number +=1
+    '''Menampilkan list buku'''
+    for indeks, judul in enumerate(kategori_n_list) :
+        print(f"{indeks+1}. {judul}")
+
 
 
 def pilihanKategoriBuku (userInput, no_pilihan_user, kategori_buku, kategori_n_list) :
